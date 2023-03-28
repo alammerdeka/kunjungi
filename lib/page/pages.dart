@@ -1,0 +1,12 @@
+import 'package:animated_bottom_navigation_bar/animated_bottom_navigation_bar.dart';
+import 'package:auto_size_text/auto_size_text.dart';
+import 'package:flutter/foundation.dart';
+import 'package:flutter/gestures.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter/rendering.dart';
+import 'package:kunjungi/decoration/decorations.dart';
+import 'package:circular_reveal_animation/circular_reveal_animation.dart';
+part 'main_page.dart';
+part 'splash_screen.dart';
+part 'home_page.dart';
+part 'profile_page.dart';
